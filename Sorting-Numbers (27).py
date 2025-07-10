@@ -19,4 +19,4 @@ for a in range(len(l)):
     n += [k[a]] + [l[a]]
 
 print(m)
-print(n[::-1])
+print(n)
